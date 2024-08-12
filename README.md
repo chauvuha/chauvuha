@@ -4,7 +4,7 @@ Head to my portfolio website for more details on design process: https://www.vuh
 
 🔭 I am currently a Computer Science & Mathematics major at Pomona College, graduating December 2026.
 - Languages: Java; Python; C#, C++; JavaScript; HTML; CSS; Ruby (Rails); Haskell
-- Technologies: ReactJS; Postgres, Unity, NodeJS; Pytorch (FastAI); MongoDB; Django; Git
+- Technologies: Web development (ReactJS, NodeJS, MongoDB, Django); Azure; XR development (Unity); Postgres; Pytorch (FastAI); Git
 - UX Research: Qualitative Research; Thematic analysis; Surveys; Field Studies; Interviews; User Flow; App Flow; Prototyping (Figma); Adobe Photoshop
   
 💌 Feel free to contact me at: vuhachau2412@gmail.com
