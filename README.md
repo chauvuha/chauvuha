@@ -2,7 +2,5 @@
 
 🔭 I am currently a Computer Science & Mathematics major at Pomona College, graduating December 2026.
 - Languages: Java; Python; C#, C++; JavaScript; HTML; CSS; Ruby (Rails); Haskell
-- Technologies: Web development (ReactJS, NodeJS, MongoDB, Django); Azure; XR development (Unity); Postgres; Pytorch (FastAI); Git
+- Technologies: Web development (ReactJS, NodeJS, MongoDB, Flask, Django); Azure; XR development (Unity); Postgres; Pytorch (FastAI); Git
   
-💌 Feel free to contact me at: vuhachau2412@gmail.com
-
